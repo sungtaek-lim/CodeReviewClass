@@ -11,3 +11,10 @@
 
 ## Humanizing Code Review
 * https://www.processimpact.com/articles/humanizing_reviews.pdf
+
+## 함수/클래스별 코멘트 내용
+* thread-safe or not
+* may block (schedule) or not
+* run in bounded time or not
+* throws exception or not
+* stateless or not (has side effect which is hard to spot)
