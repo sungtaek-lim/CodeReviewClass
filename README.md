@@ -9,3 +9,5 @@
 * 리누스 토발즈의 가이드: https://github.com/torvalds/subsurface-for-dirk/blob/a48494d2fbed58c751e9b7e8fbff88582f9b2d02/README#L88
 * 문제를 기술하기 위해 자세히 https://github.com/torvalds/linux/commit/1b7e816fc80e668f0ccc8542cec20b9259abace1#diff-b3cd915d758008bd19d0f2428fbb354a
 
+## Humanizing Code Review
+* https://www.processimpact.com/articles/humanizing_reviews.pdf
