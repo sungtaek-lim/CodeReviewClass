@@ -1,6 +1,6 @@
 # Code Review Class
 
-## 구성원 간에 Coding Guideline 합의를 도출하고 문서로 남긴다
+## 동료들과 Coding Guideline에 대해 합의하고 문서로 남긴다
 * 하이퍼텍스트로 각 항목을 링크할 수 있게 하라
 * 링크를 언급하여 간단히 리뷰 가능
 * https://mtlynch.io/human-code-reviews-1/
@@ -8,7 +8,7 @@
 ## 코드 작성자에 대한 리뷰가 아니다
 * https://www.processimpact.com/articles/humanizing_reviews.pdf
 
-## 무엇을 리뷰할까?
+## 무엇을 리뷰해야 하나
 ### Code Invariant에 기반한 함수/클래스별 체크 사항
 * thread-safe or not
 * may block (schedule) or not
