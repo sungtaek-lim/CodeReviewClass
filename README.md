@@ -22,4 +22,7 @@
 
 
 ### 코드 구조/맥락의 파악이 힘들다면 그것도 리뷰다
-* clean code의 룰에 부합하는지 
+* clean code의 룰에 부합하는지
+
+### SOLID 원칙
+* https://en.wikipedia.org/wiki/SOLID
