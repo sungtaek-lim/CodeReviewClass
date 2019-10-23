@@ -1,4 +1,4 @@
-# CodeReviewClass
+# Code Review Class
 
 ## 구성원 간에 Coding Guideline 합의를 도출하고 문서로 남긴다
 * 하이퍼텍스트로 각 항목을 링크할 수 있게 하라
