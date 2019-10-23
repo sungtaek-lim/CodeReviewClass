@@ -5,7 +5,7 @@
 * 링크를 언급하여 간단히 리뷰 가능
 * https://mtlynch.io/human-code-reviews-1/
 
-## 코드 작성자에 대한 리뷰가 아니다
+## 코드 리뷰를 잘 할 수 있는 조직 문화
 * https://www.processimpact.com/articles/humanizing_reviews.pdf
 
 ## 무엇을 리뷰해야 하나
