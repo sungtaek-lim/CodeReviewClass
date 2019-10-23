@@ -5,7 +5,7 @@
 * 링크를 언급하 간략히 리뷰 가능
 * https://mtlynch.io/human-code-reviews-1/
 
-## Humanizing Code Review
+## 코드 리뷰는 코드에 대한 리뷰이지 코드 작성자에 대한 리뷰가 아니다
 * https://www.processimpact.com/articles/humanizing_reviews.pdf
 
 ## 무엇을 리뷰할까?
