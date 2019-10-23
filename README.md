@@ -17,8 +17,8 @@
 * stateless or not (has side effect which is hard to spot)
 
 ### commit log(submit message)도 리뷰의 대상이다
-* 리누스 토발즈의 가이드: https://github.com/torvalds/subsurface-for-dirk/blob/a48494d2fbed58c751e9b7e8fbff88582f9b2d02/README#L88
-* 커밋 로그는 충분히 길게: https://github.com/torvalds/linux/commit/1b7e816fc80e668f0ccc8542cec20b9259abace1#diff-b3cd915d758008bd19d0f2428fbb354a
+* 리눅스 커널의 예: https://github.com/torvalds/subsurface-for-dirk/blob/a48494d2fbed58c751e9b7e8fbff88582f9b2d02/README#L88
+* 제한 없이, 충분히 길게: https://github.com/torvalds/linux/commit/1b7e816fc80e668f0ccc8542cec20b9259abace1#diff-b3cd915d758008bd19d0f2428fbb354a
 
 
 ### 코드 구조/맥락의 파악이 힘들다면 그것도 리뷰다
