@@ -5,10 +5,6 @@
 * 링크를 언급하 간략히 리뷰 가능
 * https://mtlynch.io/human-code-reviews-1/
 
-## 커밋 로그도 리뷰의 대상이다
-* 리누스 토발즈의 가이드: https://github.com/torvalds/subsurface-for-dirk/blob/a48494d2fbed58c751e9b7e8fbff88582f9b2d02/README#L88
-* 커밋 로그는 충분히 길게: https://github.com/torvalds/linux/commit/1b7e816fc80e668f0ccc8542cec20b9259abace1#diff-b3cd915d758008bd19d0f2428fbb354a
-
 ## Humanizing Code Review
 * https://www.processimpact.com/articles/humanizing_reviews.pdf
 
@@ -19,6 +15,11 @@
 * run in bounded time or not
 * throws exception or not
 * stateless or not (has side effect which is hard to spot)
+
+### 커밋 로그도 리뷰의 대상이다
+* 리누스 토발즈의 가이드: https://github.com/torvalds/subsurface-for-dirk/blob/a48494d2fbed58c751e9b7e8fbff88582f9b2d02/README#L88
+* 커밋 로그는 충분히 길게: https://github.com/torvalds/linux/commit/1b7e816fc80e668f0ccc8542cec20b9259abace1#diff-b3cd915d758008bd19d0f2428fbb354a
+
 
 ### 코드 구조/맥락의 파악이 힘들다면 그것도 리뷰다
 * clean code의 룰에 부합하는지 
