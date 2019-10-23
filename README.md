@@ -19,3 +19,6 @@
 * run in bounded time or not
 * throws exception or not
 * stateless or not (has side effect which is hard to spot)
+
+### 코드 구조/맥락의 파악이 힘들다면 그것도 리뷰다
+* clean code의 룰에 부합하는지 
