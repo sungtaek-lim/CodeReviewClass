@@ -12,7 +12,8 @@
 ## Humanizing Code Review
 * https://www.processimpact.com/articles/humanizing_reviews.pdf
 
-## Code Invariant에 기반한 함수/클래스별 체크 사항
+## 무엇을 리뷰할까?
+### Code Invariant에 기반한 함수/클래스별 체크 사항
 * thread-safe or not
 * may block (schedule) or not
 * run in bounded time or not
